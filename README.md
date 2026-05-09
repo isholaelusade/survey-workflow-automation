@@ -1,0 +1,106 @@
+# Survey Workflow Automation
+
+AI-powered stock condition surveying and operational workflow platform built for UK housing inspections and property reporting.
+
+## Overview
+
+Survey Workflow Automation is a mobile-first platform designed to improve the speed, consistency, and quality of property condition surveys.
+
+The platform helps surveyors:
+- Create structured stock condition surveys
+- Generate AI-assisted defect reports
+- Manage property inspection workflows
+- Handle survey images and documentation
+- Improve GDPR compliance with automatic data deletion
+- Work offline using PWA support
+
+This project was built from real operational experience within UK social housing and property inspections.
+
+---
+
+# Key Features
+
+## Authentication & Security
+- Email + PIN login system
+- Secure password reset flow
+- Row-Level Security (RLS)
+- GDPR-focused auto-delete system
+- Secure storage policies
+- User-scoped access controls
+
+## Survey Workflow
+- Flat, house, and block survey support
+- Smart survey defaults
+- Quick paste tenant parsing
+- Consecutive survey mode
+- Voice-to-text notes
+- Drag-and-drop workflow support
+
+## AI Report Generation
+- AI-assisted defect reporting
+- AI vision image analysis
+- UK English report generation
+- Referral report generation
+- Stock Condition Survey reporting
+- Awaab's Law workflow support
+
+## Photos & Image Handling
+- Mobile camera uploads
+- Drag-and-drop image support
+- Automatic image optimisation
+- Signed image URLs
+- Batch image handling
+
+## GDPR & Data Protection
+- Configurable retention periods
+- Automated scheduled deletion
+- Privacy policy integration
+- Expiry warnings
+- User-controlled data lifecycle
+
+## Mobile/PWA
+- Installable Progressive Web App
+- Offline functionality
+- Auto-save support
+- Mobile-first interface
+- Background sync support
+
+---
+
+# Tech Stack
+
+- React
+- TypeScript
+- Tailwind CSS
+- Supabase
+- Gemini AI
+- Vite
+- PWA
+- docx
+- jszip
+
+---
+
+# Current Focus
+
+- AI-powered operational tooling
+- Property inspection workflow automation
+- Survey reporting systems
+- PropTech workflow development
+- Mobile-first field operations
+
+---
+
+# Background
+
+This platform was created from real-world experience within UK housing inspections and stock condition surveying.
+
+The goal was to reduce repetitive administrative work, improve reporting consistency, and modernise operational survey workflows using AI-assisted tooling.
+
+---
+
+# Status
+
+Active development.
+
+Additional features, integrations, and workflow improvements are currently in progress.
