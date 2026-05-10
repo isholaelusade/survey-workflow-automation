@@ -26,6 +26,7 @@ Mobile-first AI-powered stock condition surveying platform for UK housing inspec
 ### Defect Report 
 <img width="512" height="512" alt="Defect Report completed page" src="https://github.com/user-attachments/assets/9ae330a0-2d09-4a8d-b79d-4f7e959effcf" />
 
+<img width="512" height="512" alt="Generated Report Download" src="https://github.com/user-attachments/assets/8438c91b-b155-48bc-9b46-1728b509b9cc" />
 
 AI-powered stock condition surveying and operational workflow platform built for UK housing inspections and property reporting.
 
