@@ -20,6 +20,13 @@ Mobile-first AI-powered stock condition surveying platform for UK housing inspec
 
 <img width="512" height="512" alt="settings page 2" src="https://github.com/user-attachments/assets/66647271-e880-432f-a6f8-cdf28be4e794" />
 
+### PWA Installation
+<img width="512" height="512" alt="App Install guide" src="https://github.com/user-attachments/assets/3c6ab2cd-91ba-4d57-a2b2-2996007b82e3" />
+
+### Defect Report 
+<img width="512" height="512" alt="Defect Report completed page" src="https://github.com/user-attachments/assets/9ae330a0-2d09-4a8d-b79d-4f7e959effcf" />
+
+
 AI-powered stock condition surveying and operational workflow platform built for UK housing inspections and property reporting.
 
 ## Overview
