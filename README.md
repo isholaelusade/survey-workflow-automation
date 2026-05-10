@@ -1,4 +1,3 @@
-
 # Survey Workflow Automation
 
 Mobile-first AI-powered stock condition surveying platform for UK housing inspections and operational reporting.
@@ -7,9 +6,19 @@ Mobile-first AI-powered stock condition surveying platform for UK housing inspec
 
 ### Login & Security
 <img width="512" height="512" alt="login-screen.png" src="https://github.com/user-attachments/assets/b3583291-761f-4410-812f-7e0666b2553d" />
-<img width="512" height="512" alt="login Page pin" src="https://github.com/user-attachments/assets/546c5b4d-c90b-4a77-b465-70bab6557886" />
-### Dashboard
 
+<img width="512" height="512" alt="login-screen2.png" src="https://github.com/user-attachments/assets/546c5b4d-c90b-4a77-b465-70bab6557886" />
+
+### Dashboard
+<img width="512" height="512" alt="Dashboard.png" src="https://github.com/user-attachments/assets/0898ef12-5382-4216-aa08-4d45cc09a877" />
+
+### Survey Management
+<img width="512" height="512" alt="survey-list.png" src="https://github.com/user-attachments/assets/ad0f53d2-f388-45a3-9161-80dc888654df" />
+
+### Settings & GDPR
+<img width="512" height="512" alt="Settings " src="https://github.com/user-attachments/assets/4b94d848-4420-43b5-8274-99230433ba14" />
+
+<img width="512" height="512" alt="settings page 2" src="https://github.com/user-attachments/assets/66647271-e880-432f-a6f8-cdf28be4e794" />
 
 AI-powered stock condition surveying and operational workflow platform built for UK housing inspections and property reporting.
 
