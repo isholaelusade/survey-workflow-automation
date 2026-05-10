@@ -1,5 +1,11 @@
 # Survey Workflow Automation
 
+Mobile-first AI-powered stock condition surveying platform for UK housing inspections and operational reporting.
+
+## Screenshots
+
+Coming soon...
+
 AI-powered stock condition surveying and operational workflow platform built for UK housing inspections and property reporting.
 
 ## Overview
@@ -104,3 +110,14 @@ The goal was to reduce repetitive administrative work, improve reporting consist
 Active development.
 
 Additional features, integrations, and workflow improvements are currently in progress.
+
+---
+
+## Development Status
+
+Currently in active development with ongoing improvements to:
+- AI-assisted reporting
+- Mobile workflows
+- Offline support
+- GDPR automation
+- Property inspection tooling
