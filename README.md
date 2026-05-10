@@ -1,8 +1,12 @@
 # Survey Workflow Automation
 
+![Status](https://img.shields.io/badge/status-active%20development-blue)
+![Platform](https://img.shields.io/badge/platform-PWA-green)
+![Built With](https://img.shields.io/badge/built%20with-React%20%2B%20Supabase-61dafb)
+
 Mobile-first AI-powered stock condition surveying platform for UK housing inspections and operational reporting.
 
-## Screenshots ##
+## Screenshots
 
 ### Login & Security
 <img width="512" height="512" alt="login-screen.png" src="https://github.com/user-attachments/assets/b3583291-761f-4410-812f-7e0666b2553d" />
@@ -28,7 +32,6 @@ Mobile-first AI-powered stock condition surveying platform for UK housing inspec
 
 <img width="512" height="512" alt="Generated Report Download" src="https://github.com/user-attachments/assets/8438c91b-b155-48bc-9b46-1728b509b9cc" />
 
-AI-powered stock condition surveying and operational workflow platform built for UK housing inspections and property reporting.
 
 ## Overview
 
@@ -118,6 +121,11 @@ This project was built from real operational experience within UK social housing
 - Mobile-first field operations
 
 ---
+## Why I Built This
+
+After working within UK housing inspections and stock condition surveying, I saw how repetitive and manual many operational workflows were.
+
+This platform was created to reduce administrative overhead, improve reporting consistency, speed up survey completion, and modernise field operations using AI-assisted tooling and mobile-first workflows.
 
 # Background
 
