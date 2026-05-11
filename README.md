@@ -4,27 +4,6 @@
 ![Platform](https://img.shields.io/badge/platform-PWA-green)
 ![Built With](https://img.shields.io/badge/built%20with-React%20%2B%20Supabase-61dafb)
 
-Mobile-first AI-powered stock condition surveying platform for UK housing inspections and operational reporting.
-
-## Screenshots
-
-### Dashboard
-<img width="512" height="512" alt="Dashboard.png" src="https://github.com/user-attachments/assets/0898ef12-5382-4216-aa08-4d45cc09a877" />
-
-### Survey Management
-<img width="512" height="512" alt="survey-list.png" src="https://github.com/user-attachments/assets/ad0f53d2-f388-45a3-9161-80dc888654df" />
-
-### Defect Report 
-<img width="512" height="512" alt="Defect Report completed page" src="https://github.com/user-attachments/assets/9ae330a0-2d09-4a8d-b79d-4f7e959effcf" />
-
-<img width="512" height="512" alt="Generated Report Download" src="https://github.com/user-attachments/assets/8438c91b-b155-48bc-9b46-1728b509b9cc" />
-
-# Survey Workflow Automation
-
-![Status](https://img.shields.io/badge/status-active%20development-blue)
-![Platform](https://img.shields.io/badge/platform-PWA-green)
-![Built With](https://img.shields.io/badge/built%20with-React%20%2B%20Supabase-61dafb)
-
 Mobile-first operational workflow platform designed for property inspections, survey reporting, and field-based workflows.
 
 ## Screenshots
